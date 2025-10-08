@@ -1,0 +1,6 @@
+x64/
+Project_GameLife/
+*.sln
+*.vcxproj
+*.filters
+*.user
